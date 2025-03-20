@@ -6,5 +6,6 @@ public class A {
         System.out.println("This is a change made in Nilu's branch.");
         System.out.println("This is a change made in Nilu's branch again.");
         System.out.println("This is a change made in Nilu's branch again, but with more comments.");
+         System.out.println(" fixed the bug");
     }
 }
